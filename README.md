@@ -185,7 +185,7 @@ Output:
 
 | Role | Name | Contact |
 |------|------|---------|
-| **Lead Developer** | Niloy Pal | niloypal572@gmail.com<br>📞 +91-6204319128 |
+| **Lead Developer** | Niloy Pal | niloypal699@gmail.com<br>📞 +91-6204312829 |
 | **Data Science Lead** | Ankur Goswami | ankur.goswami031202@gmail.com |
 | **ML Engineer** | Soumadip Ghosh | soumadipghosh01@gmail.com<br>📞 +91-6296159264 |
 | **Quality Assurance** | Souvik Saha | sahasouvik6969@gmail.com<br>📞 +91-97322664369 |
@@ -257,8 +257,8 @@ We welcome contributions to improve CreditCraft! Whether it's bug fixes, feature
 
 **Need Help?** We're here to assist!
 
-[![Email Support](https://img.shields.io/badge/📧_Email-niloypal572@gmail.com-black?style=for-the-badge)](mailto:niloypal572@gmail.com)
-[![Phone Support](https://img.shields.io/badge/📞_Phone-+91--6204319128-black?style=for-the-badge)](tel:+916204319128)
+[![Email Support](https://img.shields.io/badge/📧_Email-niloypal699@gmail.com-black?style=for-the-badge)](mailto:niloypal699@gmail.com)
+[![Phone Support](https://img.shields.io/badge/📞_Phone-+91--6204312829-black?style=for-the-badge)](tel:+916204312829)
 
 **Business Hours**: Monday - Friday, 9:00 AM - 6:00 PM IST
 
